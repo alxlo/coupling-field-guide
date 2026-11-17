@@ -1,0 +1,5 @@
+# editor and OS leftovers
+*~
+.~lock.*
+*.bak
+.DS_Store
