@@ -17,6 +17,16 @@ A two-page reference for any coupling you meet in a software system: where it co
 
 It is the companion to the talk *Where Coupling Comes From* at the Software Architecture Gathering 2026.
 
+## Talk slides
+
+**Download:** [talk/2026-11-18_SAG_Alexander_Lorz_Where_Coupling_Comes_From.pdf](talk/2026-11-18_SAG_Alexander_Lorz_Where_Coupling_Comes_From.pdf): the slides of the talk *Where Coupling Comes From: A Working Model Across Domain, Design, Code, and Organisation*, Software Architecture Gathering 2026, Berlin, 18 November 2026 (42 slides, no speaker notes).
+
+**Cite the talk as:**
+
+> [Lorz 2026] A. Lorz, "Where Coupling Comes From: A Working Model Across Domain, Design, Code, and Organisation," presented at Software Architecture Gathering 2026, Berlin, Germany, Nov. 18, 2026. [Online]. Available: <https://github.com/alxlo/coupling-field-guide/blob/main/talk/2026-11-18_SAG_Alexander_Lorz_Where_Coupling_Comes_From.pdf>
+
+Licence of the slides: CC BY-SA 4.0, except quotations and third-party images; details in [licenses/SLIDES-NOTICE.md](licenses/SLIDES-NOTICE.md).
+
 ## How to use it
 
 1. Start from a symptom you observe (back).
@@ -33,6 +43,7 @@ It is the companion to the talk *Where Coupling Comes From* at the Software Arch
 | `coupling-field-guide.png` | Front page preview |
 | `coupling-field-guide-back.png` | Back page preview |
 | `coupling-field-guide.md` | The text of both pages |
+| `talk/2026-11-18_SAG_Alexander_Lorz_Where_Coupling_Comes_From.pdf` | Slides of the talk (SAG 2026) |
 
 ## Sources
 
@@ -66,3 +77,5 @@ Corrections and suggestions are welcome as [issues](https://github.com/alxlo/cou
 
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (`licenses/CC-BY-SA-4.0.txt`).
 The PDF embeds IBM Plex Sans and IBM Plex Mono, © IBM Corp., under the [SIL Open Font License 1.1](https://openfontlicense.org) (`licenses/IBM-Plex-OFL.txt`).
+
+The talk slides (`talk/`) are under CC BY-SA 4.0 as well, **except** quotations, the NASA cover photo, AI-generated images and embedded fonts: see [licenses/SLIDES-NOTICE.md](licenses/SLIDES-NOTICE.md).
